@@ -1,5 +1,5 @@
 pandoc: 3.1.11
-pkgdown: 2.1.1
+pkgdown: 2.1.2
 pkgdown_sha: ~
 articles:
   crvsreportpackage: crvsreportpackage.html
@@ -7,7 +7,7 @@ articles:
   developer_manual: developer_manual.html
   table_templates: table_templates.html
   using_git: using_git.html
-last_built: 2024-09-25T13:05Z
+last_built: 2025-05-09T09:46Z
 urls:
   reference: https://tech-acs.github.io/crvsreportpackage/reference
   article: https://tech-acs.github.io/crvsreportpackage/articles
